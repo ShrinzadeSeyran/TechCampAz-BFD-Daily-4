@@ -1,0 +1,29 @@
+.Home{
+    background-color: blue;
+    color: white;
+   border-radius: 10px;
+   border: none;
+    
+}
+.About{
+    background-color: blue;
+    color: white;
+    border: none;
+   border-radius: 10px;
+}
+.Our{
+    background-color: blue;
+    color: white;
+   border-radius: 10px;
+   border: none;
+}
+.Contact{
+    background-color: blue;
+    color: white;
+   border-radius: 10px;
+   border: none;
+}
+.umumi{
+    justify-content: space-around;
+    
+}
